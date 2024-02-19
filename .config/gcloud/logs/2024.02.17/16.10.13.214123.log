@@ -1,0 +1,7 @@
+2024-02-17 16:10:13,215 DEBUG    root            Loaded Command Group: ['gcloud', 'config']
+2024-02-17 16:10:13,217 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'get']
+2024-02-17 16:10:13,218 DEBUG    root            Running [gcloud.config.get] with arguments: [SECTION/PROPERTY: "project"]
+2024-02-17 16:10:13,218 INFO     ___FILE_ONLY___ (unset)
+
+2024-02-17 16:10:13,218 DEBUG    root            Chosen display Format:value(.)
+2024-02-17 16:10:13,219 INFO     root            Display format: "value(.)"

@@ -1,0 +1,595 @@
+[16:58:32 INFO  SMAPI] SMAPI 3.18.1 with Stardew Valley 1.5.6 (build 1.3.37.0) on macOS Unix 12.6.0
+[16:58:32 INFO  SMAPI] Mods go here: /Users/utkarshverma/Library/Application Support/Steam/steamapps/common/Stardew Valley/Contents/MacOS/Mods
+[16:58:32 TRACE SMAPI] Log started at 2022-12-10T11:28:32 UTC
+[16:58:35 DEBUG SMAPI] Waiting for game to launch...
+[16:58:36 TRACE game] NoFpsCap: This feature is not available
+[16:58:37 DEBUG SMAPI] Loading mod metadata...
+[16:58:37 TRACE SMAPI]   Ignored loose files: .DS_Store
+[16:58:37 DEBUG SMAPI] Loading mods...
+[16:58:37 TRACE SMAPI]    HD Portraits (from Mods/HDPortraits/HDPortraits.dll)...
+[16:58:37 TRACE SMAPI]       Detected game patcher in assembly HDPortraits.dll.
+[16:58:37 TRACE SMAPI]    Content Patcher (from Mods/ContentPatcher/ContentPatcher.dll)...
+[16:58:37 TRACE SMAPI]       Loading ContentPatcher.dll...
+[16:58:37 TRACE SMAPI]    Jier's HD Portraits (from Mods/Jier's HD Vanilla Portraits) [content pack]...
+[16:58:37 TRACE SMAPI]    Console Commands (from Mods/ConsoleCommands/ConsoleCommands.dll)...
+[16:58:37 TRACE SMAPI]    Generic Mod Config Menu (from Mods/GenericModConfigMenu/GenericModConfigMenu.dll)...
+[16:58:38 TRACE SMAPI]    Expanded Preconditions Utility (from Mods/ExpandedPreconditionsUtility/ExpandedPreconditionsUtility.dll)...
+[16:58:38 TRACE SMAPI]       Rewrote ExpandedPreconditionsUtility.dll for OS...
+[16:58:38 TRACE SMAPI]       Rewrote ExpandedPreconditionsUtility.dll to fix 32-bit architecture...
+[16:58:38 TRACE SMAPI]    Farm Type Manager (from Mods/FarmTypeManager/FarmTypeManager.dll)...
+[16:58:38 TRACE SMAPI]       Detected game patcher in assembly FarmTypeManager.dll.
+[16:58:38 TRACE SMAPI]    Stardew Valley Expanded Forage Locations - Immersive Farm 2 (from Mods/Immersive Farm 2 Remastered/[FTM] Immersive Farm 2 Remastered) [content pack]...
+[16:58:38 TRACE SMAPI]    NPC Map Locations (from Mods/NPCMapLocations/NPCMapLocations.dll)...
+[16:58:38 TRACE SMAPI]       Loading NPCMapLocations.dll...
+[16:58:38 TRACE SMAPI]    Shop Tile Framework (from Mods/ShopTileFramework/ShopTileFramework.dll)...
+[16:58:38 TRACE SMAPI]       Rewrote ShopTileFramework.dll for OS...
+[16:58:38 TRACE SMAPI]       Rewrote ShopTileFramework.dll to fix 32-bit architecture...
+[16:58:38 TRACE SMAPI]       Rewrote ShopTileFramework.dll to fix Harmony 1.x...
+[16:58:38 TRACE SMAPI]       Detected game patcher in assembly ShopTileFramework.dll.
+[16:58:38 TRACE SMAPI]    Extra Map Layers (from Mods/ExtraMapLayers/ExtraMapLayers.dll)...
+[16:58:38 TRACE SMAPI]       Detected game patcher in assembly ExtraMapLayers.dll.
+[16:58:38 TRACE SMAPI]    SAAT.API (from Mods/SAAT/SAAT.API/SAAT.API.dll)...
+[16:58:38 TRACE SMAPI]    SpaceCore (from Mods/SpaceCore/SpaceCore.dll)...
+[16:58:38 TRACE SMAPI]       Detected game patcher in assembly SpaceCore.dll.
+[16:58:38 TRACE SMAPI]       Detected possible save serializer change (StardewValley.SaveGame.farmerSerializer field, StardewValley.SaveGame.serializer field, StardewValley.SaveGame.locationSerializer field) in assembly SpaceCore.dll.
+[16:58:38 TRACE SMAPI]    Custom NPC Exclusions (from Mods/CustomNPCExclusions/CustomNPCExclusions.dll)...
+[16:58:38 TRACE SMAPI]       Detected game patcher in assembly CustomNPCExclusions.dll.
+[16:58:38 TRACE SMAPI]    Json Assets (from Mods/JsonAssets/JsonAssets.dll)...
+[16:58:38 TRACE SMAPI]       Detected game patcher in assembly JsonAssets.dll.
+[16:58:38 TRACE SMAPI]    New Objects for Stardew Valley Expanded (from Mods/Stardew Valley Expanded/[JA] Stardew Valley Expanded) [content pack]...
+[16:58:38 TRACE SMAPI]    Stardew Valley Expanded Forage Locations (from Mods/Stardew Valley Expanded/[FTM] Stardew Valley Expanded) [content pack]...
+[16:58:38 TRACE SMAPI]    SAAT.Mod (from Mods/SAAT/SAAT.Mod/SAAT.Mod.dll)...
+[16:58:38 TRACE SMAPI]    Stardew Valley Expanded Music (from Mods/Stardew Valley Expanded/[SAAT] Stardew Valley Expanded) [content pack]...
+[16:58:38 TRACE SMAPI]    Stardew Valley Expanded - Shop Tile Framework (from Mods/Stardew Valley Expanded/[STF] Stardew Valley Expanded) [content pack]...
+[16:58:38 TRACE SMAPI]    Stardew Valley Expanded (from Mods/Stardew Valley Expanded/[CP] Stardew Valley Expanded) [content pack]...
+[16:58:38 TRACE SMAPI]    Immersive Farm 2 Remastered (from Mods/Immersive Farm 2 Remastered/[CP] Immersive Farm 2 Remastered) [content pack]...
+[16:58:38 TRACE SMAPI]    Mail Framework Mod (from Mods/MailFrameworkMod/MailFrameworkMod.dll)...
+[16:58:38 TRACE SMAPI]       Detected game patcher in assembly MailFrameworkMod.dll.
+[16:58:38 TRACE SMAPI]    Save Backup (from Mods/SaveBackup/SaveBackup.dll)...
+[16:58:38 TRACE SMAPI]    Love of Cooking (from Mods/LoveOfCooking/LoveOfCooking.dll)...
+[16:58:38 TRACE SMAPI]       Detected game patcher in assembly LoveOfCooking.dll.
+[16:58:38 TRACE SMAPI]    Lookup Anything (from Mods/LookupAnything/LookupAnything.dll)...
+[16:58:38 TRACE SMAPI]       Loading LookupAnything.dll...
+[16:58:38 TRACE SMAPI]    (CP) Love of Cooking UI Recolor (from Mods/[CP] Love of Cooking UI Recolor) [content pack]...
+[16:58:38 TRACE SMAPI]    Ridgeside Village (JSON Assets component) (from Mods/Ridgeside Village/[JA] Ridgeside Village) [content pack]...
+[16:58:38 TRACE SMAPI]    Ridgeside Village (Stardew Audio API Toolkit component) (from Mods/Ridgeside Village/[SAAT] Ridgeside Village) [content pack]...
+[16:58:38 TRACE SMAPI]    Custom Companions (from Mods/CustomCompanions/CustomCompanions.dll)...
+[16:58:38 TRACE SMAPI]       Detected game patcher in assembly CustomCompanions.dll.
+[16:58:38 TRACE SMAPI]    Ridgeside Village (Custom Companions component) (from Mods/Ridgeside Village/[CC] Ridgeside Village) [content pack]...
+[16:58:38 TRACE SMAPI]    Ridgeside Village (Farm Type Manager component) (from Mods/Ridgeside Village/[FTM] Ridgeside Village) [content pack]...
+[16:58:38 TRACE SMAPI]    Ridgeside Village (Mail Framework Mod component) (from Mods/Ridgeside Village/[MFM] Ridgeside Village) [content pack]...
+[16:58:38 TRACE SMAPI]    Ridgeside Village (Shop Tile Framework component) (from Mods/Ridgeside Village/[STF] Ridgeside Village) [content pack]...
+[16:58:38 TRACE SMAPI]    Ridgeside Village (SMAPI component) (from Mods/Ridgeside Village/RidgesideVillage/RidgesideVillage.dll)...
+[16:58:38 TRACE SMAPI]       Detected game patcher in assembly RidgesideVillage.dll.
+[16:58:38 TRACE SMAPI]    AntiSocial NPCs (from Mods/AntiSocialNPCs/AntiSocialNPCs.dll)...
+[16:58:38 TRACE SMAPI]       Detected game patcher in assembly AntiSocialNPCs.dll.
+[16:58:38 TRACE SMAPI]    Ridgeside Village (Content Patcher component) (from Mods/Ridgeside Village/[CP] Ridgeside Village) [content pack]...
+[16:58:38 TRACE SMAPI]    Show Birthdays (from Mods/ShowBirthdays/ShowBirthdays.dll)...
+[16:58:38 TRACE SMAPI]    Error Handler (from Mods/ErrorHandler/ErrorHandler.dll)...
+[16:58:38 TRACE SMAPI]       Detected game patcher in assembly ErrorHandler.dll.
+[16:58:38 TRACE SMAPI]    Better Ranching (from Mods/BetterRanching/BetterRanching.dll)...
+[16:58:38 TRACE SMAPI]    UI Info Suite 2 (from Mods/UIInfoSuite2/UIInfoSuite2.dll)...
+[16:58:38 TRACE SMAPI]    Tractor Mod (from Mods/TractorMod/TractorMod.dll)...
+[16:58:38 TRACE SMAPI]    Stardew Valley Expanded (from Mods/Stardew Valley Expanded/StardewValleyExpanded/StardewValleyExpanded.dll)...
+[16:58:38 TRACE SMAPI]       Detected game patcher in assembly AntiSocial.dll.
+[16:58:38 TRACE SMAPI]       Loading AntiSocial.dll...
+[16:58:38 TRACE SMAPI]       Detected game patcher in assembly StardewValleyExpanded.dll.
+[16:58:38 TRACE SMAPI]       Loading StardewValleyExpanded.dll...
+[16:58:38 TRACE SMAPI]    Jier's HD SVE Portraits (from Mods/Jier's HD SVE Portraits) [content pack]...
+[16:58:38 TRACE SMAPI]    Visible Fish (from Mods/VisibleFish/showFishInWater.dll)...
+[16:58:38 TRACE SMAPI]       Detected game patcher in assembly showFishInWater.dll.
+[16:58:38 INFO  SMAPI] Loaded 28 mods:
+[16:58:38 INFO  SMAPI]    AntiSocial NPCs 1.0.6 by Super Aardvark | Allows modders to create NPCs that the player can't befriend.
+[16:58:38 INFO  SMAPI]    Better Ranching 1.9.0 by Urbanyeti | Prevents failed milk/shear attempts and displays when animals can be milked/sheared and petted.
+[16:58:38 INFO  SMAPI]    Console Commands 3.18.1 by SMAPI | Adds SMAPI console commands that let you manipulate the game.
+[16:58:38 INFO  SMAPI]    Content Patcher 1.28.3 by Pathoschild | Loads content packs which edit game data, images, and maps without changing the game files.
+[16:58:38 INFO  SMAPI]    Custom Companions 2.5.0 by PeacefulEnd | Framework for creating custom entities that can be spawned on maps or follow you around in Stardew Valley.
+[16:58:38 INFO  SMAPI]    Custom NPC Exclusions 1.4.0 by Esca | Allows modders to exclude custom NPCs from quests and events via Content Patcher.
+[16:58:38 INFO  SMAPI]    Error Handler 3.18.1 by SMAPI | Handles some common vanilla errors to log more useful info or avoid breaking the game.
+[16:58:38 INFO  SMAPI]    Expanded Preconditions Utility 1.0.1 by Cherry | A condition checking system designed for use by other mods, in the format of event preconditions
+[16:58:38 INFO  SMAPI]    Extra Map Layers 0.3.3 by aedenthorn | Draws additional layers from map files.
+[16:58:38 INFO  SMAPI]    Farm Type Manager 1.16.0 by Esca | Allows custom spawning of content from each farm type: forage, large objects, ore, and monsters
+[16:58:38 INFO  SMAPI]    Generic Mod Config Menu 1.9.6 by spacechase0 | Adds an in-game UI to edit other mods' config options (for mods which support it).
+[16:58:38 INFO  SMAPI]    HD Portraits 1.2.1 by Tlitookilakin | Enables portraits at other resolutions & with animation.
+[16:58:38 INFO  SMAPI]    Json Assets 1.10.10 by spacechase0 | Lets content packs add custom content to the game.
+[16:58:38 INFO  SMAPI]    Lookup Anything 1.38.1 by Pathoschild | View metadata about anything by pressing a button.
+[16:58:38 INFO  SMAPI]    Love of Cooking 1.0.29 by blueberry | Cooking overhaul suite. Enter a world of food!
+[16:58:38 INFO  SMAPI]    Mail Framework Mod 1.13.0 by Digus | Utility classes to send mail in the game.
+[16:58:38 INFO  SMAPI]    NPC Map Locations 2.11.1 by Bouhm | Shows NPCs and farmers on a modified map page for accurate tracking.
+[16:58:38 INFO  SMAPI]    Ridgeside Village (SMAPI component) 2.2.3 by Rafseazz | Ridgeside Village SMAPI and Harmony Component
+[16:58:38 INFO  SMAPI]    SAAT.API 1.1.2 by ZeroMeters | Audio API for SMAPI
+[16:58:38 INFO  SMAPI]    SAAT.Mod 1.1.2 by ZeroMeters | Custom Audio Loader & Management for SMAPI
+[16:58:38 INFO  SMAPI]    Save Backup 3.18.1 by SMAPI | Automatically backs up all your saves once per day into its folder.
+[16:58:38 INFO  SMAPI]    Shop Tile Framework 1.0.9 by Cherry | Define new shops as custom tile properties
+[16:58:38 INFO  SMAPI]    Show Birthdays 1.3.0 by Traktori | Allows the calendar to display multiple birthdays.
+[16:58:38 INFO  SMAPI]    SpaceCore 1.10.0 by spacechase0 | A framework mod used by some of my other mods.
+[16:58:38 INFO  SMAPI]    Stardew Valley Expanded 1.14.17 by FlashShifter, Esca, and super-aardvark | Adds coded elements to the game
+[16:58:38 INFO  SMAPI]    Tractor Mod 4.16.2 by Pathoschild | Lets you buy a tractor to more efficiently work with crops, clear twigs and rocks, etc.
+[16:58:38 INFO  SMAPI]    UI Info Suite 2 2.2.6 by Annosz | Adds a useful information to the user interface. Based on Cdaragorn's excellent UI Info Suite.
+[16:58:38 INFO  SMAPI]    Visible Fish 0.3.5 by shekurika | Shows fish in the water
+
+[16:58:38 INFO  SMAPI] Loaded 17 content packs:
+[16:58:38 INFO  SMAPI]    (CP) Love of Cooking UI Recolor 2.1.0 by KAYA | for Content Patcher | Love of Cooking UI Recolor set
+[16:58:38 INFO  SMAPI]    Immersive Farm 2 Remastered 1.14.17 by FlashShifter (Original Author: zanderb14) | for Content Patcher | FlashShifter's remastered version of Zander's Immersive Farm 2 map
+[16:58:38 INFO  SMAPI]    Jier's HD Portraits 1.0.0 by Aizack777 | for Content Patcher | Jier's HD Portraits
+[16:58:38 INFO  SMAPI]    Jier's HD SVE Portraits 1.0.0 by Jier and PaulDunstan | for Content Patcher | Jier's HD SVE Portraits
+[16:58:38 INFO  SMAPI]    New Objects for Stardew Valley Expanded 1.14.17 by FlashShifter | for Json Assets | Adds new fish, objects, weapons, crops, and decorations.
+[16:58:38 INFO  SMAPI]    Ridgeside Village (Content Patcher component) 2.2.3 by Rafseazz | for Content Patcher | Adds Ridgeside Village to the game. A Stardew Valley Expansion mod.
+[16:58:38 INFO  SMAPI]    Ridgeside Village (Custom Companions component) 2.2.3 by Rafseazz | for Custom Companions | Custom Companions pack for Ridgeside Village.
+[16:58:38 INFO  SMAPI]    Ridgeside Village (Farm Type Manager component) 2.2.3 by Rafseazz | for Farm Type Manager | Adds forage and monsters to Ridgeside Village.
+[16:58:38 INFO  SMAPI]    Ridgeside Village (JSON Assets component) 2.2.3 by Rafseazz | for Json Assets | Adds custom items to Ridgeside Village.
+[16:58:38 INFO  SMAPI]    Ridgeside Village (Mail Framework Mod component) 2.2.3 by Rafseazz | for Mail Framework Mod | Adds mail related assets for Ridgeside Village.
+[16:58:38 INFO  SMAPI]    Ridgeside Village (Shop Tile Framework component) 2.2.3 by Rafseazz | for Shop Tile Framework | Adds shops to Ridgeside Village.
+[16:58:38 INFO  SMAPI]    Ridgeside Village (Stardew Audio API Toolkit component) 2.2.3 by Rafseazz | for SAAT.Mod | Adds custom audio to Ridgeside Village.
+[16:58:38 INFO  SMAPI]    Stardew Valley Expanded 1.14.17 by FlashShifter | for Content Patcher | An expansive fanmade mod for ConcernedApe's Stardew Valley.
+[16:58:38 INFO  SMAPI]    Stardew Valley Expanded - Shop Tile Framework 1.14.17 by FlashShifter | for Shop Tile Framework | Adds vendors to Stardew Valley Expanded.
+[16:58:38 INFO  SMAPI]    Stardew Valley Expanded Forage Locations 1.14.17 by FlashShifter | for Farm Type Manager | This FTM pack is for SVE!
+[16:58:38 INFO  SMAPI]    Stardew Valley Expanded Forage Locations - Immersive Farm 2 1.14.17 by FlashShifter | for Farm Type Manager | This FTM pack is for IF2R. Only useable if playing with SVE!
+[16:58:38 INFO  SMAPI]    Stardew Valley Expanded Music 1.14.17 by FlashShifter | for SAAT.Mod | Adds soundtracks to the game
+
+[16:58:38 INFO  SMAPI] Found 14 mods with warnings:
+[16:58:39 WARN  SMAPI]    Changed save serializer
+[16:58:39 WARN  SMAPI]    --------------------------------------------------
+[16:58:39 WARN  SMAPI]       These mods change the save serializer. They may corrupt your save files, or make them unusable if
+[16:58:39 WARN  SMAPI]       you uninstall these mods.
+
+[16:58:39 WARN  SMAPI]       - SpaceCore
+
+[16:58:39 INFO  SMAPI]    Patched game code
+[16:58:39 INFO  SMAPI]    --------------------------------------------------
+[16:58:39 INFO  SMAPI]       These mods directly change the game code. They're more likely to cause errors or bugs in-game; if
+[16:58:39 INFO  SMAPI]       your game has issues, try removing these first. Otherwise you can ignore this warning.
+
+[16:58:39 INFO  SMAPI]       - AntiSocial NPCs
+[16:58:39 INFO  SMAPI]       - Custom Companions
+[16:58:39 INFO  SMAPI]       - Custom NPC Exclusions
+[16:58:39 INFO  SMAPI]       - Extra Map Layers
+[16:58:39 INFO  SMAPI]       - Farm Type Manager
+[16:58:39 INFO  SMAPI]       - HD Portraits
+[16:58:39 INFO  SMAPI]       - Json Assets
+[16:58:39 INFO  SMAPI]       - Love of Cooking
+[16:58:39 INFO  SMAPI]       - Mail Framework Mod
+[16:58:39 INFO  SMAPI]       - Ridgeside Village (SMAPI component)
+[16:58:39 INFO  SMAPI]       - Shop Tile Framework
+[16:58:39 INFO  SMAPI]       - SpaceCore
+[16:58:39 INFO  SMAPI]       - Stardew Valley Expanded
+[16:58:39 INFO  SMAPI]       - Visible Fish
+
+[16:58:39 DEBUG SMAPI] Launching mods...
+[16:58:39 DEBUG HD Portraits] Starting up...
+[16:58:39 TRACE SMAPI]    Found mod-provided API (HDPortraits.API).
+[16:58:39 TRACE SMAPI]    Found mod-provided API (ContentPatcher.Framework.ContentPatcherAPI).
+[16:58:39 TRACE SMAPI]    Found mod-provided API (ExpandedPreconditionsUtility.ConditionsChecker).
+[16:58:39 TRACE Farm Type Manager] Applying Harmony patch "HarmonyPatch_UpdateCursorOverPlacedItem": postfixing SDV method "Utility.canGrabSomethingFromHere(int, int, Farmer)".
+[16:58:39 TRACE Farm Type Manager] Applying Harmony patch "HarmonyPatch_OptimizeMonsterCode": prefixing SDV method "GameLocation.isCollidingPosition".
+[16:58:39 TRACE Farm Type Manager] Applying Harmony patch "HarmonyPatch_OptimizeMonsterCode": transpiling SDV method "GameLocation.isTemp".
+[16:58:39 TRACE Farm Type Manager] Applying Harmony patch "HarmonyPatch_OptimizeMonsterCode": prefixing SDV method "Monster.findPlayer".
+[16:58:39 TRACE Farm Type Manager] Applying Harmony patch "HarmonyPatch_ToggleExtraLoot": postfixing 12 implementations of SDV method "Monster.getExtraDropitems()".
+[16:58:39 INFO  Shop Tile Framework] Adding Content Packs...
+[16:58:39 INFO  Shop Tile Framework] Loading: Stardew Valley Expanded - Shop Tile Framework by FlashShifter | 1.14.17 | Adds vendors to Stardew Valley Expanded.
+[16:58:39 INFO  Shop Tile Framework] Loading: Ridgeside Village (Shop Tile Framework component) by Rafseazz | 2.2.3 | Adds shops to Ridgeside Village.
+[16:58:39 TRACE SMAPI]    Found mod-provided API (ShopTileFramework.API.STFApi).
+[16:58:39 TRACE Extra Map Layers] Transpiling Layer_DrawNormal
+[16:58:39 TRACE Extra Map Layers] switching equals to startswith for layer id
+[16:58:39 TRACE SMAPI]    Found mod-provided API (SAAT.API.AudioManager).
+[16:58:39 TRACE SpaceCore] Found crafting recipe constructor in Void layoutRecipes(System.Collections.Generic.List`1[System.String])!
+[16:58:39 TRACE SpaceCore] Found first ldloc.s for ClickableTextureComponent in Void layoutRecipes(System.Collections.Generic.List`1[System.String]); storing potential override w/ recipeLocal=StardewValley.CraftingRecipe (9)
+[16:58:39 TRACE SpaceCore] Found crafting recipe constructor in System.String createDescription(Int32)!
+[16:58:40 TRACE SMAPI]    Found mod-provided API (SpaceCore.Api).
+[16:58:40 TRACE Custom NPC Exclusions] Applying Harmony patch "HarmonyPatch_ItemDeliveryQuest": postfixing SDV method "ItemDeliveryQuest.GetValidTargetList()".
+[16:58:40 TRACE Custom NPC Exclusions] Applying Harmony patch "HarmonyPatch_SocializeQuest": postfixing SDV method "SocializeQuest.loadQuestInfo()".
+[16:58:40 TRACE Custom NPC Exclusions] Applying Harmony patch "HarmonyPatch_WinterStarGifts": transpiling SDV method "Event.setUpPlayerControlSequence(string)".
+[16:58:40 TRACE Custom NPC Exclusions] Applying Harmony patch "HarmonyPatch_WinterStarGifts": transpiling SDV method "LetterViewerMenu(string, string, bool)".
+[16:58:40 TRACE Custom NPC Exclusions] Applying Harmony patch "HarmonyPatch_ShopDialog": transpiling SDV method "Game1.UpdateShopPlayerItemInventory(string, HashSet<NPC>)".
+[16:58:40 TRACE Custom NPC Exclusions] Applying Harmony patch "HarmonyPatch_IslandVisit": prefixing SDV method "IslandSouth.SetupIslandSchedules()".
+[16:58:40 TRACE Custom NPC Exclusions] Applying Harmony patch "HarmonyPatch_IslandVisit": prefixing SDV method "IslandSouth.CanVisitIslandToday(NPC)".
+[16:58:40 TRACE Custom NPC Exclusions] Applying Harmony patch "HarmonyPatch_PerfectionFriendship": transpiling SDV method "Utility.getMaxedFriendshipPercent(Farmer)".
+[16:58:40 TRACE Custom NPC Exclusions] Applying Harmony patch "HarmonyPatch_MovieInvitation": transpiling SDV method "NPC.tryToReceiveActiveObject(Farmer)".
+[16:58:40 TRACE Custom NPC Exclusions] Applying Harmony patch "HarmonyPatch_Greetings": prefixing SDV method "NPC.sayHiTo(Character)".
+[16:58:40 TRACE Custom NPC Exclusions] Applying Harmony patch "HarmonyPatch_BirthdayCalendar": transpiling SDV constructor "Billboard(bool)".
+[16:58:40 TRACE SMAPI]    Found mod-provided API (JsonAssets.Api).
+[16:58:40 TRACE Love of Cooking] 
+== CONFIG SUMMARY ==
+
+New Cooking Menu:   True
+New Cooking Skill:  True
+New Cooking Tool:   True
+New Crops & Stuff:  True
+New Recipe Scaling: True
+New Buff Assigning: False
+Cooking Animation:  True
+Healing Takes Time: False
+Hide Food Buffs:    False
+Food Can Burn:      False
+-------------
+ShowFoodRegenBar:         True
+RememberLastSearchFilter: True
+DefaultSearchFilter:      None
+-------------
+Debugging:      False
+Resize Korean:  True
+
+[16:58:40 TRACE SMAPI]    Found mod-provided API (LoveOfCooking.Objects.CookingSkillAPI).
+[16:58:40 TRACE Save Backup] Backed up to /Users/utkarshverma/Library/Application Support/Steam/steamapps/common/Stardew Valley/Contents/MacOS/save-backups/2022-12-10 - SMAPI 3.18.1 with Stardew Valley 1.5.6.zip.
+[16:58:41 TRACE SMAPI]    Found mod-provided API (CustomCompanions.Framework.Interfaces.API.Api).
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Number of dependencies to check: 14
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] InstallationChecker checking SMAPI...
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] SMAPI is out of date: False
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] SMAPI is loaded and up to date.
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] InstallationChecker checking Content Patcher...
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Content Patcher: Local version (1.28.3) is older than required version (1.28.0): False
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Content Patcher is loaded and up to date.
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] InstallationChecker checking Expanded Preconditions Utility...
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] InstallationChecker checking SpaceCore...
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] SpaceCore: Local version (1.10.0) is older than required version (1.9.2): False
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] SpaceCore is loaded and up to date.
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] InstallationChecker checking Custom Companions...
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Custom Companions: Local version (2.5.0) is older than required version (2.5.0): False
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Custom Companions is loaded and up to date.
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] InstallationChecker checking Extra Map Layers...
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] InstallationChecker checking Farm Type Manager (FTM)...
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] InstallationChecker checking JsonAssets...
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] InstallationChecker checking Shop Tile Framework...
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] InstallationChecker checking Anti-Social NPCs...
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] InstallationChecker checking Custom NPC Exclusions...
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] InstallationChecker checking Mail Framework Mod...
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] InstallationChecker checking SAAT - Audio API and Toolkit...
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] InstallationChecker checking Event Limiter...
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Number of missing mods: 0
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Number of out of date mods: 0
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Applying Harmony Patch "Animations".
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Applying Harmony Patch "Backgrounds".
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Applying Harmony Patch "Animations".
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Applying Harmony Patch "Dateables.
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Applying Harmony Patch "GameMenu_ChangeTab_PostFix.
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Applying Harmony Patch "ShowGlobalMessage_Prefix.
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Applying Harmony Patch "obeliskWarpForReal_Prefix" prefixing SDV method "obeliskWarpForReal_Prefix".
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Applying Harmony Patch "Rings.
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Applying Harmony Patch "SecretSantaGift.
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Applying Harmony Patch from "SummitFarm".
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Applying Harmony Patch from "TreasureItems".
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Applying Harmony Patch "UntimedSO" prefixing SDV method.
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Not patching GetProtraitForRequester because platform is Mac
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Registered HotelCounter
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Registered EventHallCounter
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Registered RatesCounter
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Registered RSVHistoryScroll
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Registered BlissBook
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Registered RSVMinecart
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Registered RSVWarp
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Registered RSVCorruptedFire
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Registered RSVQuestBoard
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Registered RSVSpecialOrderBoard
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Registered IanCounter
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Registered RSVUndreyaSched
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Registered ShipmentRSV
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Registered RSVMaiveLoan
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Registered PaulaCounter
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Registered RSVOffering
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Registered RSVOpenDaiaBook
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Registered MyLetter
+[16:58:41 TRACE Ridgeside Village (SMAPI component)] Registered RSVFoxbloomHint
+[16:58:41 DEBUG AntiSocial NPCs] AntiSocial Mod performing stand-alone setup.
+[16:58:41 TRACE AntiSocial NPCs] Patching getRandomTownNPC...
+[16:58:41 TRACE AntiSocial NPCs] Adding call to RemoveAntiSocialNPCs at index 3
+[16:58:41 TRACE AntiSocial NPCs] Patching loadQuestInfo...
+[16:58:41 TRACE AntiSocial NPCs] Adding call to RemoveAntiSocialNPCs at index 45
+[16:58:41 TRACE SMAPI]    Found mod-provided API (BetterRanching.BetterRanchingApi).
+[16:58:41 DEBUG Stardew Valley Expanded] AntiSocial Mod loaded.  Skipping ad hoc setup.
+[16:58:41 INFO  Stardew Valley Expanded] Starting Installation Checker...
+[16:58:41 INFO  Stardew Valley Expanded] (Installation Checker provided by shekurika and moe)
+[16:58:41 TRACE Stardew Valley Expanded] Number of dependencies to check: 15
+[16:58:41 TRACE Stardew Valley Expanded] InstallationChecker checking SMAPI...
+[16:58:41 TRACE Stardew Valley Expanded] SMAPI is loaded and up to date.
+[16:58:41 TRACE Stardew Valley Expanded] InstallationChecker checking Content Patcher...
+[16:58:41 TRACE Stardew Valley Expanded] Content Patcher is loaded and up to date.
+[16:58:41 TRACE Stardew Valley Expanded] InstallationChecker checking Expanded Preconditions Utility...
+[16:58:41 TRACE Stardew Valley Expanded] Expanded Preconditions Utility is loaded and up to date.
+[16:58:41 TRACE Stardew Valley Expanded] InstallationChecker checking SpaceCore...
+[16:58:41 TRACE Stardew Valley Expanded] SpaceCore is loaded and up to date.
+[16:58:41 TRACE Stardew Valley Expanded] InstallationChecker checking Extra Map Layers...
+[16:58:41 TRACE Stardew Valley Expanded] Extra Map Layers is loaded and up to date.
+[16:58:41 TRACE Stardew Valley Expanded] InstallationChecker checking Farm Type Manager (FTM)...
+[16:58:41 TRACE Stardew Valley Expanded] Farm Type Manager (FTM) is loaded and up to date.
+[16:58:41 TRACE Stardew Valley Expanded] InstallationChecker checking JsonAssets...
+[16:58:41 TRACE Stardew Valley Expanded] JsonAssets is loaded and up to date.
+[16:58:41 TRACE Stardew Valley Expanded] InstallationChecker checking Shop Tile Framework...
+[16:58:41 TRACE Stardew Valley Expanded] Shop Tile Framework is loaded and up to date.
+[16:58:41 TRACE Stardew Valley Expanded] InstallationChecker checking Custom NPC Exclusions...
+[16:58:41 TRACE Stardew Valley Expanded] Custom NPC Exclusions is loaded and up to date.
+[16:58:41 TRACE Stardew Valley Expanded] InstallationChecker checking SAAT - Audio API and Toolkit...
+[16:58:41 TRACE Stardew Valley Expanded] SAAT - Audio API and Toolkit is loaded and up to date.
+[16:58:41 TRACE Stardew Valley Expanded] InstallationChecker checking [CP] Stardew Valley Expanded...
+[16:58:41 TRACE Stardew Valley Expanded] [CP] Stardew Valley Expanded is loaded and up to date.
+[16:58:41 TRACE Stardew Valley Expanded] InstallationChecker checking [FTM] Stardew Valley Expanded...
+[16:58:41 TRACE Stardew Valley Expanded] [FTM] Stardew Valley Expanded is loaded and up to date.
+[16:58:41 TRACE Stardew Valley Expanded] InstallationChecker checking [JA] Stardew Valley Expanded...
+[16:58:41 TRACE Stardew Valley Expanded] [JA] Stardew Valley Expanded is loaded and up to date.
+[16:58:41 TRACE Stardew Valley Expanded] InstallationChecker checking [SAAT] Stardew Valley Expanded...
+[16:58:41 TRACE Stardew Valley Expanded] [SAAT] Stardew Valley Expanded is loaded and up to date.
+[16:58:41 TRACE Stardew Valley Expanded] InstallationChecker checking [STF] Stardew Valley Expanded...
+[16:58:41 TRACE Stardew Valley Expanded] [STF] Stardew Valley Expanded is loaded and up to date.
+[16:58:41 TRACE Stardew Valley Expanded] Number of missing mods: 0
+[16:58:41 TRACE Stardew Valley Expanded] Number of out of date mods: 0
+[16:58:41 INFO  Stardew Valley Expanded] Installation check completed. Everything seems fine!
+[16:58:41 TRACE Stardew Valley Expanded] Replacing sound cue "AmbientLocationSounds.engine" with a wrapper for volume control.
+[16:58:41 TRACE Stardew Valley Expanded] Applying Harmony patch "DisableShadowAttacks": postfixing SDV method "AdventureGuild.killListLine(string, int, int)".
+[16:58:41 TRACE Stardew Valley Expanded] Applying Harmony patch "HarmonyPatch_GetFishingLocation": postfixing SDV method "GameLocation.getFishingLocation()".
+[16:58:41 TRACE Stardew Valley Expanded] Applying Harmony patch "HarmonyPatch_CustomFishPondColors": postfixing SDV method "FishPond.doFishSpecificWaterColoring()".
+[16:58:41 TRACE Stardew Valley Expanded] Applying Harmony patch "HarmonyPatch_FarmComputerLocations": postfixing SDV method "Farm.getTotalCrops()".
+[16:58:41 TRACE Stardew Valley Expanded] Applying Harmony patch "HarmonyPatch_FarmComputerLocations": postfixing SDV method "Farm.getTotalCropsReadyForHarvest()".
+[16:58:41 TRACE Stardew Valley Expanded] Applying Harmony patch "HarmonyPatch_FarmComputerLocations": postfixing SDV method "Farm.getTotalUnwateredCrops()".
+[16:58:41 TRACE Stardew Valley Expanded] Applying Harmony patch "HarmonyPatch_FarmComputerLocations": postfixing SDV method "Farm.getTotalOpenHoeDirt()".
+[16:58:41 TRACE Stardew Valley Expanded] Applying Harmony patch "HarmonyPatch_FarmComputerLocations": postfixing SDV method "Farm.getTotalGreenhouseCropsReadyForHarvest()".
+[16:58:41 TRACE Stardew Valley Expanded] Applying Harmony patch "HarmonyPatch_PiggyBank": postfixing SDV method "Object_checkForAction(Farmer, bool)".
+[16:58:41 TRACE Stardew Valley Expanded] Applying Harmony patch "HarmonyPatch_FixDesertBusWarp": transpiling SDV method "Desert.resetLocalState()".
+[16:58:41 TRACE Stardew Valley Expanded] Applying Harmony patch "HarmonyPatch_DesertSecretNoteTile": prefixing SDV method "Desert.checkForBuriedItem(int, int, bool, bool, Farmer)".
+[16:58:41 TRACE Stardew Valley Expanded] Applying Harmony patch "HarmonyPatch_ActionProperties": postfixing SDV method "GameLocation.performAction(string, Farmer, Location)".
+[16:58:41 TRACE Stardew Valley Expanded] Applying Harmony patch "HarmonyPatch_CatStatue": postfixing SDV method "Object.DayUpdate(GameLocation)".
+[16:58:41 TRACE Stardew Valley Expanded] Applying Harmony patch "HarmonyPatch_DesertFishingItems": postfixing SDV method "Desert.getFish".
+[16:58:41 TRACE Stardew Valley Expanded] Applying Harmony patch "HarmonyPatch_CustomGrangeJudging": prefixing SDV method "Event.initiateGrangeJudging()".
+[16:58:41 TRACE Stardew Valley Expanded] Applying Harmony patch "HarmonyPatch_CustomGrangeJudging": postfixing SDV method "Event.interpretGrangeResults()".
+[16:58:41 TRACE Stardew Valley Expanded] Applying Harmony patch "HarmonyPatch_MovieTheaterNPCs": postfixing SDV method "MovieTheater.checkAction(Location, Rectangle, Farmer)".
+[16:58:41 TRACE Stardew Valley Expanded] Applying Harmony patch "HarmonyPatch_MovieTheaterNPCs": transpiling SDV method "Utility.CheckForCharacterAtTile(Vector2, Farmer)".
+[16:58:41 TRACE Stardew Valley Expanded] Applying Harmony patch "HarmonyPatch_DestroyableBushesSVE": postfixing SDV method "Bush.isDestroyable(GameLocation, Vector2)".
+[16:58:41 TRACE Stardew Valley Expanded] Applying Harmony patch "HarmonyPatch_TMXLLoadMapFacingDirection": prefixing SDV method "Game1.warpFarmer(LocationRequest, int, int, int)".
+[16:58:41 TRACE Stardew Valley Expanded] Applying Harmony patch "HarmonyPatch_UntimedSpecialOrders": postfixing SDV method "SpecialOrders.IsTimedQuest()".
+[16:58:41 TRACE Stardew Valley Expanded] Applying Harmony patch "HarmonyPatch_FixCommunityShortcuts": transpiling SDV method "Forest.showCommunityUpgradeShortcuts()".
+[16:58:41 TRACE Stardew Valley Expanded] Applying Harmony patch "HarmonyPatch_FixCommunityShortcuts": transpiling SDV method "Beach.showCommunityUpgradeShortcuts(GameLocation, bool)".
+[16:58:41 DEBUG SMAPI] Mods loaded and ready!
+[16:58:41 TRACE SMAPI] Checking for updates...
+[16:58:42 TRACE game] setGameMode( 'titleScreenGameMode (0)' )
+[16:58:42 TRACE game] Steam logged on: True
+[16:58:42 TRACE game] Initializing GalaxySDK
+[16:58:42 TRACE game] Requesting Steam app ticket
+[16:58:42 WARN  SMAPI] Custom NPC Exclusions uses deprecated code (IAssetLoader) and will break in the next major SMAPI update.
+[16:58:42 WARN  SMAPI] Stardew Valley Expanded uses deprecated code (IContentHelper.AssetLoaders) and will break in the next major SMAPI update.
+[16:58:42 DEBUG SMAPI]    at StardewValleyExpanded.ModEntry.Entry(IModHelper helper)
+   at StardewModdingAPI.Framework.SCore.LoadMods(IModMetadata[] mods, JsonHelper jsonHelper, ContentCoordinator contentCore, ModDatabase modDatabase)
+[16:58:42 WARN  SMAPI] Stardew Valley Expanded uses deprecated code (IModHelper.Content) and will break in the next major SMAPI update.
+[16:58:42 DEBUG SMAPI]    at StardewValleyExpanded.ModEntry.Entry(IModHelper helper)
+   at StardewModdingAPI.Framework.SCore.LoadMods(IModMetadata[] mods, JsonHelper jsonHelper, ContentCoordinator contentCore, ModDatabase modDatabase)
+[16:58:42 TRACE SMAPI] Detecting common issues...
+[16:58:42 INFO  SMAPI] Type 'help' for help, or 'help <cmd>' for a command's usage
+[16:58:42 TRACE SMAPI] Invalidating cached assets for new editors & loaders...
+[16:58:42 TRACE SMAPI]    changed: Stardew Valley Expanded (added 1).
+[16:58:43 TRACE SMAPI] Invalidated 0 cache entries.
+[16:58:43 TRACE SMAPI]    SMAPI okay.
+[16:58:43 TRACE SMAPI]    Checking for updates to 42 mods...
+[16:58:43 DEBUG HD Portraits] Now applying patch 'Dialogue Patch'...
+[16:58:43 TRACE HD Portraits] Found markers for 'Dialogue Patch':0
+[16:58:43 TRACE HD Portraits] Found markers for 'Dialogue Patch':2
+[16:58:43 TRACE HD Portraits] Found markers for 'Dialogue Patch':3
+[16:58:43 TRACE HD Portraits] Found markers for 'Dialogue Patch':5
+[16:58:43 DEBUG HD Portraits] Successfully applied patch 'Dialogue Patch'.
+[16:58:43 DEBUG HD Portraits] Now applying patch 'Shop draw'...
+[16:58:43 TRACE HD Portraits] Found markers for 'Shop draw':0
+[16:58:43 TRACE HD Portraits] Found markers for 'Shop draw':2
+[16:58:43 TRACE HD Portraits] Found markers for 'Shop draw':5
+[16:58:43 DEBUG HD Portraits] Successfully applied patch 'Shop draw'.
+[16:58:43 DEBUG HD Portraits] Patching STF...
+[16:58:43 DEBUG HD Portraits] Reloading portrait data...
+[16:58:43 TRACE SMAPI] HD Portraits loaded asset 'Mods/HDPortraits'.
+[16:58:43 TRACE Farm Type Manager] Accessed mod-provided API (GenericModConfigMenu.Framework.Api) for Generic Mod Config Menu.
+[16:58:43 TRACE Farm Type Manager] Optional API found: Generic Mod Config Menu (GMCM).
+[16:58:43 INFO  Generic Mod Config Menu] Esca.FarmTypeManager (registering for Esca.FarmTypeManager) is using deprecated code that will break in a future version of GMCM.
+[16:58:43 TRACE Farm Type Manager] Accessed mod-provided API (ExpandedPreconditionsUtility.ConditionsChecker) for Expanded Preconditions Utility.
+[16:58:43 TRACE Farm Type Manager] Optional API found: Expanded Preconditions Utility (EPU).
+[16:58:43 TRACE Farm Type Manager] Optional API not found: Dynamic Game Assets (DGA).
+[16:58:43 TRACE Farm Type Manager] Accessed mod-provided API (ContentPatcher.Framework.ContentPatcherAPI) for Content Patcher.
+[16:58:43 TRACE Farm Type Manager] API found: Content Patcher (CP).
+[16:58:43 TRACE Farm Type Manager] Mod not found: Monsters The Framework (MTF).
+[16:58:43 TRACE Shop Tile Framework] Accessed mod-provided API (JsonAssets.Api) for Json Assets.
+[16:58:43 TRACE Shop Tile Framework] Accessed mod-provided API (ExpandedPreconditionsUtility.ConditionsChecker) for Expanded Preconditions Utility.
+[16:58:43 INFO  Shop Tile Framework] BFAV API not detected. This is only an issue if you're using custom BFAV animals and a custom shop that's supposed to sell them, as custom animals will not appear in those shops.
+[16:58:43 TRACE Extra Map Layers] device type StardewModdingAPI.Framework.Rendering.SDisplayDevice
+[16:58:43 TRACE SpaceCore] Accessed mod-provided API (GenericModConfigMenu.Framework.Api) for Generic Mod Config Menu.
+[16:58:43 TRACE Json Assets] Accessed mod-provided API (ExpandedPreconditionsUtility.ConditionsChecker) for Expanded Preconditions Utility.
+[16:58:43 TRACE Json Assets] Accessed mod-provided API (ContentPatcher.Framework.ContentPatcherAPI) for Content Patcher.
+[16:58:43 TRACE Json Assets] Accessed mod-provided API (JsonAssets.Api) for Json Assets.
+[16:58:43 TRACE SAAT.Mod] Accessed mod-provided API (SAAT.API.AudioManager) for SAAT.API.
+[16:58:43 TRACE Mail Framework Mod] Accessed mod-provided API (ExpandedPreconditionsUtility.ConditionsChecker) for Expanded Preconditions Utility.
+[16:58:43 TRACE Lookup Anything] Accessed mod-provided API (JsonAssets.Api) for Json Assets.
+[16:58:43 TRACE Lookup Anything] Accessed mod-provided API (GenericModConfigMenu.Framework.Api) for Generic Mod Config Menu.
+[16:58:43 TRACE Custom Companions] Accessed mod-provided API (JsonAssets.Api) for Json Assets.
+[16:58:43 DEBUG Custom Companions] Successfully hooked into spacechase0.JsonAssets.
+[16:58:43 TRACE Custom Companions] Accessed mod-provided API (ContentPatcher.Framework.ContentPatcherAPI) for Content Patcher.
+[16:58:43 DEBUG Custom Companions] Successfully hooked into Pathoschild.ContentPatcher.
+[16:58:43 DEBUG Custom Companions] Loading companions from pack: Ridgeside Village (Custom Companions component) 2.2.3 by Rafseazz
+[16:58:43 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.Spirit1' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:43 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.BrownCow' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:43 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.MistFox' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:43 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.PonyRide' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:43 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.FarmKiwi' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:43 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.Guest4' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:43 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.Guest3' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:43 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.Guest2' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:43 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.Guest5' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:43 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.SpiritFox' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:43 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.BrownChicken' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:43 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.Spirit2' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:43 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.Howdy' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:43 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.Spirit4' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:43 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.Spirit3' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:43 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.Guest10' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:43 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.WhiteChicken' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:43 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.MistFoxRing' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:43 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.Guest9' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:43 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.WanderingChicken' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:43 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.Guest7' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:43 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.RingSpirit' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:43 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.Guest6' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:43 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.WhiteCow' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:43 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.SpiritFoxRing' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:43 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.Guest1' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:43 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.Guest8' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:43 TRACE SMAPI] Json Assets created dynamic content pack 'Json Assets (fake content pack: Ridgeside Village/(CC) Ridgeside Village)' (unique ID: 9417f14aed004be59e874d4a06b2594c, path: Ridgeside Village/[CC] Ridgeside Village).
+[16:58:43 TRACE SMAPI] Json Assets created dynamic content pack 'Ridgeside Village (Custom Companions component)' (unique ID: RidgesideVillageCustomCompanionscomponent, path: Ridgeside Village/[CC] Ridgeside Village).
+[16:58:43 INFO  Json Assets] 	Ridgeside Village (Custom Companions component) 2.2.3 by Rafseazz - Custom Companions pack for Ridgeside Village.
+[16:58:43 TRACE Ridgeside Village (SMAPI component)] Registered ShowImage
+[16:58:43 TRACE Ridgeside Village (SMAPI component)] Registered ShowMap
+[16:58:43 TRACE Ridgeside Village (SMAPI component)] Registered RSV.TrashCan
+[16:58:43 TRACE Ridgeside Village (SMAPI component)] Accessed mod-provided API (ContentPatcher.Framework.ContentPatcherAPI) for Content Patcher.
+[16:58:43 TRACE Ridgeside Village (SMAPI component)] Accessed mod-provided API (JsonAssets.Api) for Json Assets.
+[16:58:43 TRACE Ridgeside Village (SMAPI component)] Wear More Rings API not found. Using base game ring slots only.
+[16:58:43 TRACE Ridgeside Village (SMAPI component)] Accessed mod-provided API (SpaceCore.Api) for SpaceCore.
+[16:58:43 TRACE Ridgeside Village (SMAPI component)] Accessed mod-provided API (GenericModConfigMenu.Framework.Api) for Generic Mod Config Menu.
+[16:58:43 INFO  Generic Mod Config Menu] Rafseazz.RidgesideVillage (registering for Rafseazz.RidgesideVillage) is using deprecated code that will break in a future version of GMCM.
+[16:58:43 DEBUG SpaceCore] Adding event command: RSVShowImage = Void command_RSVShowImage(StardewValley.Event, StardewValley.GameLocation, Microsoft.Xna.Framework.GameTime, System.String[])
+[16:58:43 DEBUG SpaceCore] Adding event command: RSVAddSO = Void command_RSVAddSO(StardewValley.Event, StardewValley.GameLocation, Microsoft.Xna.Framework.GameTime, System.String[])
+[16:58:43 TRACE Show Birthdays] Accessed mod-provided API (GenericModConfigMenu.Framework.Api) for Generic Mod Config Menu.
+[16:58:43 TRACE Better Ranching] Accessed mod-provided API (GenericModConfigMenu.Framework.Api) for Generic Mod Config Menu.
+[16:58:43 TRACE UI Info Suite 2] Accessed mod-provided API (GenericModConfigMenu.Framework.Api) for Generic Mod Config Menu.
+[16:58:43 TRACE Tractor Mod] Accessed mod-provided API (GenericModConfigMenu.Framework.Api) for Generic Mod Config Menu.
+[16:58:43 TRACE Visible Fish] Accessed mod-provided API (GenericModConfigMenu.Framework.Api) for Generic Mod Config Menu.
+[16:58:43 INFO  Generic Mod Config Menu] shekurika.WaterFish (registering for shekurika.WaterFish) is using deprecated code that will break in a future version of GMCM.
+[16:58:43 TRACE game] Signing into GalaxySDK
+[16:58:43 TRACE SMAPI] Got update-check errors for some mods:
+   (CP) Love of Cooking UI Recolor: Found no Nexus mod with this ID.
+   Jier's HD Portraits: The Nexus mod with ID '14150' has no valid versions.
+   Jier's HD SVE Portraits: The Nexus mod with ID '14441' has no valid versions.
+   New Objects for Stardew Valley Expanded: The value '???' isn't a valid Nexus mod ID, must be an integer ID.
+   Ridgeside Village (Custom Companions component): The value '-1' isn't a valid Nexus mod ID, must be an integer ID.
+   Ridgeside Village (Farm Type Manager component): The value '-1' isn't a valid Nexus mod ID, must be an integer ID.
+   Ridgeside Village (JSON Assets component): The value '-1' isn't a valid Nexus mod ID, must be an integer ID.
+   Ridgeside Village (Mail Framework Mod component): The value '-1' isn't a valid Nexus mod ID, must be an integer ID.
+   Ridgeside Village (Shop Tile Framework component): The value '-1' isn't a valid Nexus mod ID, must be an integer ID.
+   Ridgeside Village (SMAPI component): The value '-1' isn't a valid Nexus mod ID, must be an integer ID.
+   Ridgeside Village (Stardew Audio API Toolkit component): The value '-1' isn't a valid Nexus mod ID, must be an integer ID.
+   SAAT.Mod: The value '???' isn't a valid Nexus mod ID, must be an integer ID.
+   Stardew Valley Expanded: The value '???' isn't a valid Nexus mod ID, must be an integer ID.
+   Stardew Valley Expanded: The value '???' isn't a valid Nexus mod ID, must be an integer ID.
+   Stardew Valley Expanded - Shop Tile Framework: The value '???' isn't a valid Nexus mod ID, must be an integer ID.
+   Stardew Valley Expanded Forage Locations: The value '???' isn't a valid Nexus mod ID, must be an integer ID.
+   Stardew Valley Expanded Forage Locations - Immersive Farm 2: The value '???' isn't a valid Nexus mod ID, must be an integer ID.
+   Stardew Valley Expanded Music: The value '???' isn't a valid Nexus mod ID, must be an integer ID.
+
+[16:58:43 ALERT SMAPI] You can update 3 mods:
+[16:58:43 ALERT SMAPI]    Generic Mod Config Menu 1.10.0: https://www.nexusmods.com/stardewvalley/mods/5098 (you have 1.9.6)
+[16:58:43 ALERT SMAPI]    HD Portraits 1.3.1: https://github.com/tlitookilakin/HDPortraits/releases (you have 1.2.1)
+[16:58:43 ALERT SMAPI]    UI Info Suite 2 2.2.7: https://github.com/Annosz/UIInfoSuite2/releases (you have 2.2.6)
+[16:58:43 TRACE Content Patcher] Custom Companions added a custom token with prefix 'PeacefulEnd.CustomCompanions/': Companions.
+[16:58:43 TRACE Content Patcher] Ridgeside Village (SMAPI component) added 6 custom tokens with prefix 'Rafseazz.RidgesideVillage/': Celebrant, CelebrantDisplayName, FoxbloomDay, FoxbloomSpawned, ShirtNameFromId, SpouseGender.
+[16:58:43 TRACE Content Patcher] Json Assets added 25 custom tokens with prefix 'spacechase0.JsonAssets/': BigCraftableId, BigCraftableSpriteTilesheet, BigCraftableSpriteX, BigCraftableSpriteY, ClothingId, CropId, CropSpriteTilesheet, CropSpriteX, CropSpriteY, FruitTreeId, FruitTreeSpriteTilesheet, FruitTreeSpriteX, FruitTreeSpriteY, HatId, HatSpriteTilesheet, HatSpriteX, HatSpriteY, ObjectId, ObjectSpriteTilesheet, ObjectSpriteX, ObjectSpriteY, WeaponId, WeaponSpriteTilesheet, WeaponSpriteX, WeaponSpriteY.
+[16:58:45 TRACE Content Patcher] Requested cache invalidation for all assets matching a predicate.
+[16:58:45 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.Guest2' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:45 TRACE SMAPI] Content Patcher edited CustomCompanions/Companions/Rafseazz.RSVCC.Guest2 (for the 'Ridgeside Village (Content Patcher component)' content pack).
+[16:58:45 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.Guest1' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:45 TRACE SMAPI] Content Patcher edited CustomCompanions/Companions/Rafseazz.RSVCC.Guest1 (for the 'Ridgeside Village (Content Patcher component)' content pack).
+[16:58:45 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.Guest7' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:45 TRACE SMAPI] Content Patcher edited CustomCompanions/Companions/Rafseazz.RSVCC.Guest7 (for the 'Ridgeside Village (Content Patcher component)' content pack).
+[16:58:45 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.Guest8' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:45 TRACE SMAPI] Content Patcher edited CustomCompanions/Companions/Rafseazz.RSVCC.Guest8 (for the 'Ridgeside Village (Content Patcher component)' content pack).
+[16:58:45 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.Guest3' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:45 TRACE SMAPI] Content Patcher edited CustomCompanions/Companions/Rafseazz.RSVCC.Guest3 (for the 'Ridgeside Village (Content Patcher component)' content pack).
+[16:58:45 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.Guest10' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:45 TRACE SMAPI] Content Patcher edited CustomCompanions/Companions/Rafseazz.RSVCC.Guest10 (for the 'Ridgeside Village (Content Patcher component)' content pack).
+[16:58:45 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.Howdy' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:45 TRACE SMAPI] Content Patcher edited CustomCompanions/Companions/Rafseazz.RSVCC.Howdy (for the 'Ridgeside Village (Content Patcher component)' content pack).
+[16:58:45 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.Guest5' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:45 TRACE SMAPI] Content Patcher edited CustomCompanions/Companions/Rafseazz.RSVCC.Guest5 (for the 'Ridgeside Village (Content Patcher component)' content pack).
+[16:58:45 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.Guest4' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:45 TRACE SMAPI] Content Patcher edited CustomCompanions/Companions/Rafseazz.RSVCC.Guest4 (for the 'Ridgeside Village (Content Patcher component)' content pack).
+[16:58:45 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.Guest6' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:45 TRACE SMAPI] Content Patcher edited CustomCompanions/Companions/Rafseazz.RSVCC.Guest6 (for the 'Ridgeside Village (Content Patcher component)' content pack).
+[16:58:45 TRACE SMAPI] Custom Companions loaded asset 'CustomCompanions/Companions/Rafseazz.RSVCC.Guest9' (for the 'Ridgeside Village (Custom Companions component)' content pack).
+[16:58:45 TRACE SMAPI] Content Patcher edited CustomCompanions/Companions/Rafseazz.RSVCC.Guest9 (for the 'Ridgeside Village (Content Patcher component)' content pack).
+[16:58:45 TRACE SMAPI] Content Patcher edited LooseSprites/Cursors (for the 'Stardew Valley Expanded' content pack).
+[16:58:45 TRACE SMAPI] Content Patcher edited LooseSprites/Cursors (for the 'Immersive Farm 2 Remastered' content pack).
+[16:58:45 TRACE SMAPI] Content Patcher edited Data/NPCGiftTastes (for the 'Stardew Valley Expanded' content pack).
+[16:58:45 TRACE SMAPI] Content Patcher edited Data/ObjectContextTags (for the 'Stardew Valley Expanded' content pack).
+[16:58:45 TRACE SMAPI] Content Patcher edited Data/ObjectContextTags (for the 'Ridgeside Village (Content Patcher component)' content pack).
+[16:58:45 TRACE SMAPI] Content Patcher edited Strings/StringsFromCSFiles (for the 'Stardew Valley Expanded' content pack).
+[16:58:45 TRACE SMAPI] Content Patcher edited Strings/StringsFromCSFiles (for the 'Ridgeside Village (Content Patcher component)' content pack).
+[16:58:45 TRACE SMAPI] Invalidated 16 asset names (CustomCompanions/Companions/Rafseazz.RSVCC.Guest1, CustomCompanions/Companions/Rafseazz.RSVCC.Guest10, CustomCompanions/Companions/Rafseazz.RSVCC.Guest2, CustomCompanions/Companions/Rafseazz.RSVCC.Guest3, CustomCompanions/Companions/Rafseazz.RSVCC.Guest4, CustomCompanions/Companions/Rafseazz.RSVCC.Guest5, CustomCompanions/Companions/Rafseazz.RSVCC.Guest6, CustomCompanions/Companions/Rafseazz.RSVCC.Guest7, CustomCompanions/Companions/Rafseazz.RSVCC.Guest8, CustomCompanions/Companions/Rafseazz.RSVCC.Guest9, CustomCompanions/Companions/Rafseazz.RSVCC.Howdy, Data/NPCGiftTastes, Data/ObjectContextTags, Data/weapons, LooseSprites/Cursors, Strings/StringsFromCSFiles).
+Propagated 4 core assets (Data/NPCGiftTastes, Data/ObjectContextTags, LooseSprites/Cursors, Strings/StringsFromCSFiles).
+[16:58:45 TRACE Content Patcher] Accessed mod-provided API (GenericModConfigMenu.Framework.Api) for Generic Mod Config Menu.
+[16:58:45 TRACE Generic Mod Config Menu] Pathoschild.ContentPatcher is registering on behalf of Jier.HDPortraits
+[16:58:45 TRACE Generic Mod Config Menu] Pathoschild.ContentPatcher is registering on behalf of FlashShifter.StardewValleyExpandedCP
+[16:58:45 TRACE Generic Mod Config Menu] Pathoschild.ContentPatcher is registering on behalf of flashshifter.immersivefarm2remastered
+[16:58:45 TRACE Generic Mod Config Menu] Pathoschild.ContentPatcher is registering on behalf of KAYA.LOCrecolor
+[16:58:45 TRACE Generic Mod Config Menu] Pathoschild.ContentPatcher is registering on behalf of Rafseazz.RSVCP
+[16:58:45 TRACE Generic Mod Config Menu] Pathoschild.ContentPatcher is registering on behalf of Jier.HDSVEPortraits
+[16:58:45 INFO  Json Assets] Loading content packs...
+[16:58:45 INFO  Json Assets] 	New Objects for Stardew Valley Expanded 1.14.17 by FlashShifter - Adds new fish, objects, weapons, crops, and decorations.
+[16:58:46 TRACE Json Assets]         Adding season requirements for Slime Seed:
+        New season requirements: z summer/z fall/z winter
+[16:58:46 TRACE Json Assets]         Adding season requirements for Stalk Seed:
+        New season requirements: z spring/z fall/z winter
+[16:58:46 TRACE Json Assets]         Adding season requirements for Ancient Ferns Seed:
+        New season requirements: z spring/z fall/z winter
+[16:58:46 TRACE Json Assets]         Adding season requirements for Shrub Seed:
+        New season requirements: z fall/z winter
+[16:58:46 TRACE Json Assets]         Adding season requirements for Void Seed:
+        New season requirements: z spring/z summer/z fall
+[16:58:46 TRACE Json Assets]         Adding season requirements for Joja Veggie Seeds:
+        New season requirements: z winter
+[16:58:46 TRACE Json Assets]         Adding season requirements for Fungus Seed:
+        New season requirements: z spring/z summer/z winter
+[16:58:46 TRACE Json Assets]         Adding season requirements for Joja Berry Starter:
+        New season requirements: z winter
+[16:58:46 INFO  Json Assets] 	Ridgeside Village (JSON Assets component) 2.2.3 by Rafseazz - Adds custom items to Ridgeside Village.
+[16:58:46 TRACE Json Assets] Event: ItemsRegistered
+[16:58:46 TRACE Love of Cooking] Accessed mod-provided API (JsonAssets.Api) for Json Assets.
+[16:58:46 TRACE Love of Cooking] Applying prefix: Bush.inBloom
+[16:58:46 TRACE Love of Cooking] Applying prefix: Bush.isDestroyable
+[16:58:46 TRACE Love of Cooking] Applying prefix: Bush.getEffectiveSize
+[16:58:46 TRACE Love of Cooking] Applying prefix: Bush.shake
+[16:58:46 TRACE Love of Cooking] Applying patches to CraftingPage.clickCraftingRecipe
+[16:58:46 TRACE SpaceCore] Found crafting recipe constructor in Void layoutRecipes(System.Collections.Generic.List`1[System.String])!
+[16:58:46 TRACE SpaceCore] Found first ldloc.s for ClickableTextureComponent in Void layoutRecipes(System.Collections.Generic.List`1[System.String]); storing potential override w/ recipeLocal=StardewValley.CraftingRecipe (9)
+[16:58:46 TRACE SMAPI] Love of Cooking loaded asset 'Mods/blueberry.LoveOfCooking.Assets/ItemDefinitions'.
+[16:58:46 TRACE SMAPI] Love of Cooking loaded asset 'Mods/blueberry.LoveOfCooking.Assets/IngredientBuffChart'.
+[16:58:46 TRACE SMAPI] Love of Cooking loaded asset 'Mods/blueberry.LoveOfCooking.Assets/Sprites'.
+[16:58:46 TRACE SMAPI] Content Patcher edited Mods/blueberry.LoveOfCooking.Assets/Sprites (for the '(CP) Love of Cooking UI Recolor' content pack).
+[16:58:46 TRACE SMAPI] Love of Cooking loaded asset 'Mods/blueberry.LoveOfCooking.Assets/BushSprites'.
+[16:58:46 TRACE Love of Cooking] Requested cache invalidation for 'LooseSprites/Cursors'.
+[16:58:46 TRACE SMAPI] Content Patcher edited LooseSprites/Cursors (for the 'Stardew Valley Expanded' content pack).
+[16:58:46 TRACE SMAPI] Content Patcher edited LooseSprites/Cursors (for the 'Immersive Farm 2 Remastered' content pack).
+[16:58:46 TRACE SMAPI] Love of Cooking edited LooseSprites/Cursors.
+[16:58:46 TRACE SMAPI] Invalidated 1 asset names (LooseSprites/Cursors).
+Propagated 1 core assets (LooseSprites/Cursors).
+[16:58:46 TRACE Love of Cooking] Did not register CustomCommunityCentre content.
+[16:58:46 TRACE Love of Cooking] Accessed mod-provided API (SpaceCore.Api) for SpaceCore.
+[16:58:46 TRACE SMAPI] Json Assets created dynamic content pack 'Json Assets (fake content pack: LoveOfCooking/assets/BasicObjectsPack)' (unique ID: 62c2ee54eb1a44f79808836092c16b2e).
+[16:58:46 TRACE SMAPI] Json Assets created dynamic content pack 'blueberry.LoveOfCooking.BasicObjectsPack' (unique ID: blueberry.LoveOfCooking.BasicObjectsPack, path: LoveOfCooking/assets/BasicObjectsPack).
+[16:58:46 INFO  Json Assets] 	blueberry.LoveOfCooking.BasicObjectsPack 1.0.0 by blueberry - Love of Cooking content pack.
+[16:58:46 TRACE SMAPI] Json Assets created dynamic content pack 'Json Assets (fake content pack: LoveOfCooking/assets/NewRecipesPack)' (unique ID: c6a4252c1b454b27906a10721d587439).
+[16:58:46 TRACE SMAPI] Json Assets created dynamic content pack 'blueberry.LoveOfCooking.NewRecipesPack' (unique ID: blueberry.LoveOfCooking.NewRecipesPack, path: LoveOfCooking/assets/NewRecipesPack).
+[16:58:46 INFO  Json Assets] 	blueberry.LoveOfCooking.NewRecipesPack 1.0.0 by blueberry - Love of Cooking content pack.
+[16:58:46 TRACE SMAPI] Json Assets created dynamic content pack 'Json Assets (fake content pack: LoveOfCooking/assets/NewCropsPack)' (unique ID: cd7566f7739644c88cbef0dd9f340d84).
+[16:58:46 TRACE SMAPI] Json Assets created dynamic content pack 'blueberry.LoveOfCooking.NewCropsPack' (unique ID: blueberry.LoveOfCooking.NewCropsPack, path: LoveOfCooking/assets/NewCropsPack).
+[16:58:46 INFO  Json Assets] 	blueberry.LoveOfCooking.NewCropsPack 1.0.0 by blueberry - Love of Cooking content pack.
+[16:58:46 TRACE Json Assets]         Adding season requirements for blueberry.cac.onion_seeds:
+        New season requirements: z summer/z fall/z winter
+[16:58:46 TRACE Json Assets]         Adding season requirements for blueberry.cac.cabbage_seeds:
+        New season requirements: z spring/z fall/z winter
+[16:58:46 TRACE Json Assets]         Adding season requirements for blueberry.cac.carrot_seeds:
+        New season requirements: z spring/z summer/z winter
+[16:58:46 TRACE SMAPI] Json Assets created dynamic content pack 'Json Assets (fake content pack: LoveOfCooking/assets/NettlesPack)' (unique ID: 17ebf4c921b546c5b452b18b60cb861f).
+[16:58:46 TRACE SMAPI] Json Assets created dynamic content pack 'blueberry.LoveOfCooking.NettlesPack' (unique ID: blueberry.LoveOfCooking.NettlesPack, path: LoveOfCooking/assets/NettlesPack).
+[16:58:46 INFO  Json Assets] 	blueberry.LoveOfCooking.NettlesPack 1.0.0 by blueberry - Love of Cooking content pack.
+[16:58:46 TRACE Love of Cooking] Accessed mod-provided API (GenericModConfigMenu.Framework.Api) for Generic Mod Config Menu.
+[16:58:46 INFO  Generic Mod Config Menu] blueberry.LoveOfCooking (registering for blueberry.LoveOfCooking) is using deprecated code that will break in a future version of GMCM.
+[16:58:46 TRACE Love of Cooking] Registering skill blueberry.LoveOfCooking.CookingSkill
+[16:58:46 TRACE SMAPI] Love of Cooking loaded asset 'Mods/blueberry.LoveOfCooking.Assets/CookingSkillValues'.
+[16:58:46 TRACE SMAPI] Love of Cooking loaded asset 'Mods/blueberry.LoveOfCooking.Assets/CookingSkillLevelUpRecipes'.
+[16:58:47 TRACE game] Galaxy auth success
+[16:58:47 TRACE game] Galaxy signed in
+[16:58:47 TRACE game] Galaxy logged on
+[16:58:47 TRACE SMAPI] Generic Mod Config Menu loaded asset 'Mods/GenericModConfigMenu/ConfigButton'.
+[16:58:47 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:0 Width:1280 Height:800}
+[16:58:47 TRACE SMAPI] Content Patcher edited Strings/StringsFromCSFiles (for the 'Stardew Valley Expanded' content pack).
+[16:58:47 TRACE SMAPI] Content Patcher edited Strings/StringsFromCSFiles (for the 'Ridgeside Village (Content Patcher component)' content pack).
+[16:58:58 TRACE SMAPI] Synchronizing 'Find Save Games' task...
+[16:58:58 TRACE SpaceCore] Reinitializing serializers for 2 mod types...
+[16:59:00 TRACE SMAPI]    task complete.
+[16:59:00 TRACE SMAPI] Content Patcher edited Strings/UI (for the 'Stardew Valley Expanded' content pack).
+[16:59:00 TRACE SMAPI] Content Patcher edited Strings/UI (for the 'Immersive Farm 2 Remastered' content pack).
+[16:59:03 TRACE SMAPI] Synchronizing 'Farm_SpaceCheck' task...
+[16:59:03 TRACE SMAPI]    task complete.
+[16:59:05 TRACE SMAPI] Synchronizing 'Find Save Games' task...
+[16:59:05 TRACE SMAPI]    task complete.
+[16:59:24 TRACE game] Disconnected: ClosedGame
+[16:59:24 TRACE SMAPI] Disposing...
+[16:59:24 TRACE SMAPI] Disposing the content coordinator. Content managers will no longer be usable after this point.
