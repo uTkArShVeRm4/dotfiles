@@ -1,8 +1,0 @@
-2024-02-17 12:45:04,322 DEBUG    root            Loaded Command Group: ['gcloud', 'auth']
-2024-02-17 12:45:04,323 DEBUG    root            Loaded Command Group: ['gcloud', 'auth', 'application_default']
-2024-02-17 12:45:04,324 ERROR    root            (gcloud.auth.application-default) Command name argument expected.
-2024-02-17 12:45:04,325 DEBUG    root            Loaded Command Group: ['gcloud', 'auth', 'application-default', 'revoke']
-2024-02-17 12:45:04,327 DEBUG    root            Loaded Command Group: ['gcloud', 'auth', 'application-default', 'set_quota_project']
-2024-02-17 12:45:04,329 DEBUG    root            Loaded Command Group: ['gcloud', 'auth', 'application-default', 'print_access_token']
-2024-02-17 12:45:04,330 DEBUG    root            Loaded Command Group: ['gcloud', 'auth', 'application-default', 'login']
-2024-02-17 12:45:04,331 DEBUG    root            Chosen display Format:table[no-heading,margin=6,width=80]([0]:label='':align=left:width=22,[1]:label='':align=left:wrap)
